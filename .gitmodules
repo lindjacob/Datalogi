@@ -1,0 +1,3 @@
+[submodule "semester_2"]
+	path = semester_2
+	url = https://github.com/mltls/semester_2
